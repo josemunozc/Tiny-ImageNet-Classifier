@@ -258,7 +258,7 @@ https://tiny-imagenet.herokuapp.com/
 
 
 
-[Tiny-ImageNet]: https://tiny-imagenet.herokuapp.com/	"Link to Tiny-ImageNet"
+[Tiny-ImageNet]: http://cs231n.stanford.edu/tiny-imagenet-200.zip	"Link to Tiny-ImageNet"
 [Baseline]: https://github.com/tjmoon0104/Tiny-ImageNet-Classifier/blob/master/ResNet18_Baseline.ipynb	"Link to Baseline"
 [224]: https://github.com/tjmoon0104/Tiny-ImageNet-Classifier/blob/master/ResNet18_224.ipynb	"Link to Baseline"
 [Fine]: https://github.com/tjmoon0104/Tiny-ImageNet-Classifier/blob/master/ResNet18_224_finetune.ipynb	"Link to Baseline"
